@@ -1,4 +1,4 @@
 # firstrepo
 author: Naveen
-<br> #for getting a text in new line
+<br>
 hello there
